@@ -37,7 +37,6 @@ main {
 }
 
 h1 {
-  color: #f5f6f7;
   font-size: 1.7em;
   text-align: center;
   color: #0e07df;
@@ -49,7 +48,6 @@ h1 {
   background-color: #f5f6f7;
   border: 1px solid #f5f6f7;
   border-radius: 15px;
-  box-shadow: 10px 10px 0px 0px rgba(223, 220, 220, 0.75);
 }
 
 .output,
@@ -85,7 +83,7 @@ label {
   color: #f5f6f7;
   border: none;
 }
-  
+
 #search-input:focus-visible,
 #search-button:focus-visible {
   outline: 3px solid #198eee;
@@ -157,7 +155,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
-  font-size: 1 rem;
+  font-size: 1rem;
   color: #f5f6f7;
   background-color: #210be5;
 }
@@ -216,7 +214,7 @@ tr {
 }
 
 .flying {
-  background-color: #8899ff;
+  background-color: #89f;
 }
 
 .psychic {
