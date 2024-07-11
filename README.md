@@ -12,7 +12,8 @@ Iwork index.html styles.css script.js
 
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
-![Demo](demo.PNG)
+![Demo](demo1.PNG)
+![Demo](demo2.PNG)
 
 ## Technologies Used 🛠️
 
