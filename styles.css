@@ -18,7 +18,7 @@ img {
 
 body {
   height: 100vh;
-  background-color: #9e93f1;
+  background-color: #978afc;
   color: #0a0a23;
   line-height: 1.5;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -45,7 +45,7 @@ h1 {
 .container {
   width: 325px;
   margin: 25px 0;
-  background-color: #f5f6f7;
+  background-color: #c2d6ea;
   border: 1px solid #f5f6f7;
   border-radius: 15px;
 }
